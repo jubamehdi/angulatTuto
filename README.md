@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/jubamehdi/angulatTuto/badge.svg?branch=master)](https://coveralls.io/github/jubamehdi/angulatTuto?branch=master)
+
+[![Build Status](https://travis-ci.org/jubamehdi/angulatTuto.svg?branch=master)](https://travis-ci.org/jubamehdi/angulatTuto)
+
 # AngulatTuto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
